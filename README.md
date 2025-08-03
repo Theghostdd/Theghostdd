@@ -107,7 +107,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="margin: 60px 0;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </div>
 
