@@ -156,7 +156,7 @@
 </p>
 
 <div align="center" style="margin: 60px 0;">
-  <img src="https://i.pinimg.com/originals/7c/ed/32/7ced32d6cfb80d49545444c0a382de3b.jpg" />
+  <img src="https://wallpapers.com/images/hd/banner-background-jcd538z62euhfpkx.jpg" />
 </div>
 
 ### 💻 Languages
