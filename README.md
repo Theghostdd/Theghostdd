@@ -127,28 +127,20 @@
 ###
 
 <details>
-  <summary><h2>⏱️ Activity</h2></summary>
+  <summary>⏱️ <strong>Activity</strong></summary>
+
+  <br/>
 
 <sub>📝 <i>Statistics are updated automatically. Only public data from the IDE is displayed.</i></sub>
 
-  <div align="center">
-    <h5>Activity (Last year)</h5>
-    ![WakaTime Stats](https://wakatime.com/share/@Theghostdd/cea4544f-f620-4fb0-abf8-8b629051b85d.svg)
-  </div>
+### Activity (Last year)
 
-  ###
+![WakaTime Stats](https://wakatime.com/share/@Theghostdd/cea4544f-f620-4fb0-abf8-8b629051b85d.svg)
 
-  <div align="center">
-    <h5>Languages</h5>
-    ![WakaTime Languages Breakdown](https://wakatime.com/share/@Theghostdd/2561d99b-5452-4d9d-ac10-a383538ee598.svg)
-  </div>
+### Languages
 
-  ###
+![WakaTime Languages Breakdown](https://wakatime.com/share/@Theghostdd/2561d99b-5452-4d9d-ac10-a383538ee598.svg)
 
-  <div align="center">
-    <h5>Languages</h5>
-    ![WakaTime Languages Breakdown](https://wakatime.com/share/@Theghostdd/2561d99b-5452-4d9d-ac10-a383538ee598.svg)
-  </div>
 </details>
 
 ###
