@@ -92,6 +92,22 @@
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="60" alt="jira logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="60" alt="swagger logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="60" alt="jwt logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodemon/76D04B" height="60" alt="nodemon logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="60" alt="pnpm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prettier/F7B93E" height="60" alt="prettier logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googleauthenticator" height="60" alt="oauth logo"  />
 </div>
 
 ###
