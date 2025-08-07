@@ -156,7 +156,7 @@
 </p>
 
 <div align="center" style="margin: 60px 0;">
-  <img src="https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg" />
+  <img src="https://ultrawidewallpapers.net/wallpapers/329/highres/aishot-1341.jpg" />
 </div>
 
 ### 💻 Languages
