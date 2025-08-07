@@ -123,9 +123,9 @@
 ###
 
 <details>
-  <summary>📊 GitHub stats and activity</summary>
+  <summary><h2>📊 GitHub stats and activity</h2></summary>
 
-<sub>📝 <i>Данные основаны только на публичных репозиториях.</i></sub>
+<sub>📝 <i>The data is based on public repositories.</i></sub>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Theghostdd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
