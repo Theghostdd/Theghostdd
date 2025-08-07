@@ -127,7 +127,7 @@
 ###
 
 <details>
-  <summary>⏱️ <strong>Activity</strong></summary>
+  <summary><h2>⏱️ Activity</h2></summary>
 
   <br/>
 
