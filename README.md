@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Theghostdd">
-    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=1&pause=1&repeat=false&color=F78622&center=true&vCenter=true&width=800&height=200&lines=Mikhail%20Marchuk" alt="Mikhail Marchuk" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=2000&pause=1&repeat=false&color=F78622&center=true&vCenter=true&width=400&height=50&lines=Mikhail%20Marchuk" alt="Mikhail Marchuk" />
   </a>
 </p>
 
