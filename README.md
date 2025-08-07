@@ -156,7 +156,7 @@
 </p>
 
 <div align="center" style="margin: 60px 0;">
-  <img src="https://wallpapers.com/images/hd/banner-background-jcd538z62euhfpkx.jpg" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&cache=2" />
 </div>
 
 ### 💻 Languages
