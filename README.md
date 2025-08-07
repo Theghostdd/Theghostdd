@@ -155,9 +155,15 @@
   <img src="https://wakatime.com/share/@Theghostdd/251907c5-ff87-4ea9-b1e8-a0f54db8934d.svg" alt="WakaTime Stats Last 7 Days" />
 </p>
 
-<div align="center" style="margin: 100px 0;">
+&nbsp;
+&nbsp;
+
+<div align="center" style="margin: 60px 0;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&cache=2" />
 </div>
+
+&nbsp;
+&nbsp;
 
 ### 💻 Languages
 
