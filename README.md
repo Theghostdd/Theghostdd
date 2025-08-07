@@ -2,6 +2,10 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=2000&pause=1000&color=F78622&center=true&vCenter=true&width=800&height=200&lines=Backend+developer;Building+reliable+server-side+solutions+and+APIs;Backend+developer+focused+on+stability+and+performance)](https://git.io/typing-svg)
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mikhail-marchuk-7179b3313" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
