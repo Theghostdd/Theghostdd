@@ -133,11 +133,13 @@
 
 <sub>📝 <i>Statistics are updated automatically. Only public data from the IDE is displayed.</i></sub>
 
-### Activity (Last year)
+### 📅 Activity (Last year)
 
-![WakaTime Stats](https://wakatime.com/share/@Theghostdd/cea4544f-f620-4fb0-abf8-8b629051b85d.svg)
+<p align="center">
+  <img src="https://wakatime.com/share/@Theghostdd/cea4544f-f620-4fb0-abf8-8b629051b85d.svg" alt="WakaTime Stats" />
+</p>
 
-### Languages
+### 💻 Languages
 
 ![WakaTime Languages Breakdown](https://wakatime.com/share/@Theghostdd/2561d99b-5452-4d9d-ac10-a383538ee598.svg)
 
