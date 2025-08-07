@@ -156,7 +156,7 @@
 </p>
 
 <div align="center" style="margin: 60px 0;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+  <img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox](https://c4.wallpaperflare.com/wallpaper/586/603/742/minimalism-4k-for-mac-desktop-wallpaper-preview.jpg)" />
 </div>
 
 ### 💻 Languages
