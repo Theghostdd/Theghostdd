@@ -167,7 +167,7 @@
 
 ### 💻 Languages
 
-![WakaTime Languages Breakdown](https://wakatime.com/share/@Theghostdd/e599d072-8db0-499f-92dd-0b476ae5f70d.svg)
+![WakaTime Languages Breakdown](https://wakatime.com/share/@Theghostdd/f8ef3547-84ce-48f1-994a-b03aed2de15b.svg)
 
 </details>
 
