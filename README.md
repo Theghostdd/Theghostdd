@@ -169,6 +169,10 @@
 
 ![WakaTime Languages Breakdown](https://wakatime.com/share/@Theghostdd/f8ef3547-84ce-48f1-994a-b03aed2de15b.svg)
 
+### 🛠  Categories
+
+![WakaTime Categories Breakdown](https://wakatime.com/share/@Theghostdd/a026b420-0c06-4872-871f-e9c6b5a425a9.svg)
+
 </details>
 
 ###
