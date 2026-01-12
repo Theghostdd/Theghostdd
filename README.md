@@ -152,8 +152,7 @@
 ### 📅 Activity (Last 7 days)
 
 <p align="center">
-  <figure><embed src="https://wakatime.com/share/@Theghostdd/1d79ae6e-484a-4713-91bc-d44826f64cf8.svg"></embed></figure>
-  <!-- <img src="https://wakatime.com/share/@Theghostdd/251907c5-ff87-4ea9-b1e8-a0f54db8934d.svg" alt="WakaTime Stats Last 7 Days" /> -->
+  <img src="https://wakatime.com/share/@Theghostdd/251907c5-ff87-4ea9-b1e8-a0f54db8934d.svg" alt="WakaTime Stats Last 7 Days" />
 </p>
 
 &nbsp;
